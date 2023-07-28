@@ -3,11 +3,12 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadjalali" alt="mohammadjalali" /></a> </p>
 -->
+
 - 🔭 I’m currently working at **Mahsan**
 
 - 👯 I always like to collaborate on **new projects**
 
-- 💬 Ask me about **python, software design, and anything which relates to software engineering challenges**
+- 💬 Ask me about **python, software design, and anything which relates to software engineering**
 
 - 📫 How to reach me **mjalali1378@gmail.com**
 
