@@ -1,8 +1,8 @@
 <h1 align="center">Hey 👋, I'm MohammadHosein</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammadjalali&label=Profile%20views&color=0e75b6&style=flat" alt="mohammadjalali" /> </p>
-
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammadjalali" alt="mohammadjalali" /></a> </p>
-
+-->
 - 🔭 I’m currently working at **Mahsan** (a company based in Iran)
 
 - 👯 I always like to collaborate on **new projects**
